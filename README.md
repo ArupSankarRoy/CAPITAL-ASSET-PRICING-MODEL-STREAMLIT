@@ -41,7 +41,7 @@ The app allows you to:
 
 2. Run the Streamlit app.
    ```bash
-   streamlit run app.py
+   streamlit run index.py
    ```
 
 3. Open your web browser and go to `http://localhost:8501` to view and interact with the app.
